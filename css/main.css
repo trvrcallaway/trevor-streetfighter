@@ -40,7 +40,8 @@ body {
   height: 90px;
   display: none;
   position: relative;
-  top: -20em;
-  left: 40em;
+  top: -350px;
+  left: -212px;
+  z-index: 10;
   float: left;
 }
